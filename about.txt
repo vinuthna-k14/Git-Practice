@@ -1,3 +1,4 @@
 I'm a student at IIIT Dharwad , working on my skills.
 Currently , I'm working on improving my git skills.
 My next goal is to learn html.
+Then I want to learn CSS.
